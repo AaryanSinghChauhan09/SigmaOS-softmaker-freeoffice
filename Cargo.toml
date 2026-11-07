@@ -1,0 +1,8 @@
+[package]
+name = "sigmaos_softmaker_freeoffice"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "sigmaos_softmaker_freeoffice"
+path = "src/lib.rs"
